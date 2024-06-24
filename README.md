@@ -1,4 +1,3 @@
-```markdown
 # Excel Data Expander
 
 This Python program reads data from an Excel file, processes and expands the data based on specific rules, and then writes the processed data back to a new Excel file with alternating row colors for better readability.
