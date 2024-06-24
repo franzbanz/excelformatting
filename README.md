@@ -26,9 +26,9 @@ pip install pandas numpy openpyxl
 
 ## Usage
 
-1. Place your input Excel file (`nox_emissions_data_p3t3.xlsx`) in the specified directory.
-2. Update the `input_file` and `output_file` paths in the script as needed.
-3. Run the script:
+1. Run the script.
+2. Choose the directory of your Excel file and the directory where the new file should be saved.
+3. Click on start.
 
 ```sh
 python your_script_name.py
