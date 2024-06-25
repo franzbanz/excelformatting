@@ -106,8 +106,3 @@ for r in range(2, ws.max_row):
 
 wb.save(output_file)
 ```
-
-## License
-
-This project is licensed under the MIT License.
-```
