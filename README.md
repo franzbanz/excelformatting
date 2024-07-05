@@ -1,10 +1,12 @@
 # Excel Data Expander
 
-This Python program reads data from very specifically formatted Excel file, processes and expands the data based on specific rules, and then writes the processed data back to a new Excel file with alternating row colors for better readability.
+This Python program reads data from very specifically formatted Excel files, processes and expands the data based on specific rules, and then writes the processed data back to a new Excel file with alternating row colors for better readability.
 
-![TI-Nspire CX CAS II](before.jpeg)
+![before](before.jpeg)
+before
 
-![TI-Nspire CX CAS II](after.jpeg)
+![after](after.jpeg)
+after
 
 ## Features
 
