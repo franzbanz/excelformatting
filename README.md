@@ -36,10 +36,6 @@ pip install pandas numpy openpyxl
 2. Choose the directory of your Excel file and the directory where the new file should be saved.
 3. Click on start.
 
-```sh
-python your_script_name.py
-```
-
 ## Code Explanation
 
 ### Import Libraries
